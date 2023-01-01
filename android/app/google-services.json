@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211677664712",
+    "project_id": "mygallary-54d3e",
+    "storage_bucket": "mygallary-54d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211677664712:android:a7865908980b0812b75cfd",
+        "android_client_info": {
+          "package_name": "com.example.dream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211677664712-6gbasie24a27futbqkcp1pj2t2kdsp7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxn477Lym3wuLzPhP1BURaSYBgd5LAP9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211677664712-6gbasie24a27futbqkcp1pj2t2kdsp7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
