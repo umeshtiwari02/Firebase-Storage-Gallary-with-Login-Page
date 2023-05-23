@@ -88,7 +88,7 @@ class _LoginScreenState extends State<LoginScreen> {
               height: 16,
             ),
             const Text(
-              'म तिमीलाई माया गर्छु ! म सधै तिम्रो साथ चाहन्छु ! म तिमी बिना अपूर्ण छु ! म तिमीसँग मेरो सम्पूर्ण जीवन बाँड्न चाहन्छु !!! ',
+              'म तिमीलाई माया गर्छु ! म सधै तिम्रो साथ चाहन्छु ! म तिमीसँग मेरो सम्पूर्ण जीवन बाँड्न चाहन्छु !!! ',
               textAlign: TextAlign.center,
               style: TextStyle(
                   fontSize: 15, color: Color.fromARGB(255, 86, 81, 81),),
@@ -108,7 +108,7 @@ class _LoginScreenState extends State<LoginScreen> {
               height: 2,
             ),
              const Text(
-              'I love you नक्कली.',
+              'My Love',
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 15,
